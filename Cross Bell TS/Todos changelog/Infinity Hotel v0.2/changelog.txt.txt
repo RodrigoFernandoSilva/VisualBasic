@@ -1,0 +1,30 @@
+Empresa: Cross Bell TS
+Líder: Rodrigo Silva
+Vice-líder: Amanda Santos
+Demais integrantes: Christopher Mineiro, Fernanda Souza.
+
+15/10/2015
+
+v 0.1 
+         
+-Cadastra os hospedes esses cadastros no bloco de notas;
+-Impedi que o usuário digite numero e caracteres estranhos no nome do usuário;
+-Impedi que o usuário digite letra e caracteres estranhos na idade;
+-Não cadastra CPF que não sejam validos;
+-Tem a possibilidade de escolher o numero do quarto, só que porquanto não tem como escolher ele ainda.
+
+22/10/2015
+
+V 0.2
+
+-Foi melhorada a interface gráfica;
+-Foi colocado sistema de senha para entrar no programa;
+-O Programa exibe mensagens de erro, caso todos os dados não sejam preenchidos;
+-O cadastro está de acordo com as normas da FNRH;
+-Ainda falta validar alguns campos como CPF, Email, DDI etc;
+-E pedir que o hospede cadastre-se em um quarto já ocupado.
+-Foi controlado o número de cadeiras do restaurante;
+-O hospede consegue fazer a reserva;
+-O hospede consegue ver se a mesa está livre ou ocupada;
+   Obs:Os dados não são escritos mais no bloco de nota;
+       Senha:1234.

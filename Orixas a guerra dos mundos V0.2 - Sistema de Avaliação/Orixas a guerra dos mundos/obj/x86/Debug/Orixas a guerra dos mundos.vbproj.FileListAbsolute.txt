@@ -1,0 +1,22 @@
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.vbproj.GenerateResource.Cache
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Avaliacao.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.MenuPrin.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Messeges.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\bin\Debug\Orixas a guerra dos mundos.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Avaliacao.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.MenuPrin.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Messeges.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.4 Sistema de avaliação\Avaliação\Orixas a guerra dos mundos V0.2\Orixas a guerra dos mundos\obj\x86\Debug\Orixas a guerra dos mundos.vbproj.GenerateResource.Cache

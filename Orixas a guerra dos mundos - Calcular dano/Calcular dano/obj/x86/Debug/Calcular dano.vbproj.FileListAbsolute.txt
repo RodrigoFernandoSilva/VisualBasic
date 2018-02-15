@@ -1,0 +1,10 @@
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\bin\Debug\Calcular dano.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\bin\Debug\Calcular dano.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\bin\Debug\Calcular dano.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular_dano.Resources.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular dano.vbproj.GenerateResource.Cache
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular dano.exe
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular dano.xml
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular dano.pdb
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular_dano.MenuPrin.resources
+C:\1.0 folthers\FATEC\Smaug\the toekoms of orixás\0.5 Sistema caludar dano\Calcular dano\Calcular dano\obj\x86\Debug\Calcular_dano.Batalhar.resources

@@ -1,0 +1,14 @@
+Empresa: Cross Bell TS
+Líder: Rodrigo Silva
+Vice-líder: Amanda Santos
+Demais integrantes: Christopher Mineiro, Fernanda Souza.
+
+15/10/2015
+
+v 0.1 
+         
+-Cadastra os hospedes esses cadastros no bloco de notas;
+-Impedi que o usuário digite numero e caracteres estranhos no nome do usuário;
+-Impedi que o usuário digite letra e caracteres estranhos na idade;
+-Não cadastra CPF que não sejam validos;
+-Tem a possibilidade de escolher o numero do quarto, só que porquanto não tem como escolher ele ainda.

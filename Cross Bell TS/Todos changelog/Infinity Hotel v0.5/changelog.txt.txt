@@ -1,0 +1,20 @@
+Empresa: Cross Bell TS
+Líder: Rodrigo Silva
+Vice-líder: Amanda Santos
+Demais integrantes: Christopher Mineiro, Fernanda Souza.
+
+29/10/2015
+
+v 0.5
+         
+-Impede que o dia de Check Out seja antes de Check In; 
+-Validação do CPF, data de nascimento e nome;
+-Impedir que seja digitado nome inválido;
+-Sistema do restaurante, mostrando qual mesa está ocupada;
+-Interface dos quartos;
+-O usuário so pode preencher o Estado após digitar o país;
+-Mostra o número de andares no sistema de quartos;
+-E mostra a opção no restaurante de quantas cadeiras o hospede prefere a mesa;
+-Já salva os dados do hospede no bloco de notas.
+
+OBS: Se o usuário não preencher o campo da data de nascimento, o programa fecha. 

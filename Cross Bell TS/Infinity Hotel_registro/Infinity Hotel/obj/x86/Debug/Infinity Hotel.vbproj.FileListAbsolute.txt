@@ -1,0 +1,375 @@
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity Hotel.vbproj.GenerateResource.Cache
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+C:\Users\Amanda Barbenick\AppData\Local\Temporary Projects\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.vbproj.GenerateResource.Cache
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+E:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+D:\ \vb\Trabalhos\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+E:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Autorun.inf\Infinity Hotel v0.1\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.academia.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.cartao.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.churrasco.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.pet_shop.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.spa.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.transporte.resources
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+C:\Users\infoa08\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+F:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Form1.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quarto.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+D:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Estrangeiros.resources
+G:\Autorun.inf\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Estrangeiros.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+C:\Users\infoa26\Desktop\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+C:\Users\infoa26\Desktop\Atual\Infinity Hotel\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \vb\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+D:\ \vb\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+D:\ \vb\Infinity Hotel\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.mesas.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.promo.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.restaurante.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.salas.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+C:\Users\infoa26\Desktop\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.quartos.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Autorun.inf\vb\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.DadosDoHospede.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.DadosDoHospede.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Quartos.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Rudrigo\Desktop\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.SenhaAlteração.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.DadosDoHospede.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Quartos.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.SenhaAlteração.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+E:\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.DadosDoHospede.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Quartos.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.SenhaAlteração.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.read.109.tlog
+F:\OldFolthers\Curso\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.exe
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.pdb
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\bin\Debug\Infinity Hotel.xml
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.CheckOut.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.DadosDoHospede.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Resources.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Quartos.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.Registro.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.senha.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.SenhaAlteração.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity_Hotel.TelaPrincipal.resources
+E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.vbproj.GenerateResource.Cache
+C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
