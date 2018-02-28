@@ -373,3 +373,6 @@ E:\Autorun.inf\##TCC##\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\
 C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
 C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
 C:\5.0 MyGamesReady\3.0 VisualBasic\1 Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
+C:\5.0 MyGamesReady\VisualBasic\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.exe
+C:\5.0 MyGamesReady\VisualBasic\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.xml
+C:\5.0 MyGamesReady\VisualBasic\Cross Bell TS\Infinity Hotel_registro\Infinity Hotel\obj\x86\Debug\Infinity Hotel.pdb
